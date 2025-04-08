@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-=-w=x!ol8f^bs0g-=wp46)+nms(^at=uo(!_%zxmpgy7ef0sy^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["zany-space-carnival-5vqw69jgpr5c45xx-8000.app.github.dev", "localhost"]
 
 
 # Application definition
